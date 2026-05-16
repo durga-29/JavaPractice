@@ -1,4 +1,4 @@
-package com.example.JavaPractice;
+package com.example.JavaPractice.java;
 
 import java.util.stream.IntStream;
 
